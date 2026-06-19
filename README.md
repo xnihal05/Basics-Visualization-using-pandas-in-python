@@ -14,3 +14,5 @@ Link of dataset --> [Link of dataset] (https://www.kaggle.com/datasets/sridipbas
 <p> We filtered cs/it students from stream and got their gender ratio and analysed them one by one</p>
 <H5> c. PLotted Graph for gender ratio students in MBA degree  </H5>
 <p> We filtered MBA students from degree and got their gender ratio and analysed them one by one</p>
+
+Jupyter Notebook | Basic data analytics
